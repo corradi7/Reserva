@@ -1,4 +1,4 @@
-# Projeto Rserva
+# Projeto Reserva
 
 ## Projeto prático API Restful Nodejs e MongoDB
 
